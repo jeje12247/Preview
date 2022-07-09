@@ -12,5 +12,9 @@
 
 > thanks for **gyoogle**
 
-https://github.com/gyoogle/tech-interview-for-developer
+https://github.com/gyoogle/tech-interview-for-developer  
 
+  
+
+  
+:pushpin: etc
