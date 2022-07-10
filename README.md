@@ -6,9 +6,9 @@
 
 ### :pushpin: 로드맵
 
-> thanks for **gyoogle**
+> thanks for **Han-Kyeol**
 
-https://github.com/gyoogle/tech-interview-for-developer  
+https://github.com/Han-Kyeol/developer-roadmap-kr-.git 
 
   
 
