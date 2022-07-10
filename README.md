@@ -11,17 +11,3 @@
 https://github.com/Han-Kyeol/developer-roadmap-kr-.git 
 
   
-
-
-:pushpin: etc
-
-
-
-
-
-:pushpin:
-
-
-
-asdasd
-
